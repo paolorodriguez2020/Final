@@ -1,0 +1,12 @@
+C:\Users\paolo\OneDrive\Escritorio\finalNov\CrudNov\CrudNov\bin\Debug\CrudNov.exe.config
+C:\Users\paolo\OneDrive\Escritorio\finalNov\CrudNov\CrudNov\bin\Debug\CrudNov.exe
+C:\Users\paolo\OneDrive\Escritorio\finalNov\CrudNov\CrudNov\bin\Debug\CrudNov.pdb
+C:\Users\paolo\OneDrive\Escritorio\finalNov\CrudNov\CrudNov\obj\Debug\CrudNov.csproj.AssemblyReference.cache
+C:\Users\paolo\OneDrive\Escritorio\finalNov\CrudNov\CrudNov\obj\Debug\CrudNov.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\OneDrive\Escritorio\finalNov\CrudNov\CrudNov\obj\Debug\CrudNov.Login.resources
+C:\Users\paolo\OneDrive\Escritorio\finalNov\CrudNov\CrudNov\obj\Debug\CrudNov.Properties.Resources.resources
+C:\Users\paolo\OneDrive\Escritorio\finalNov\CrudNov\CrudNov\obj\Debug\CrudNov.csproj.GenerateResource.cache
+C:\Users\paolo\OneDrive\Escritorio\finalNov\CrudNov\CrudNov\obj\Debug\CrudNov.csproj.CoreCompileInputs.cache
+C:\Users\paolo\OneDrive\Escritorio\finalNov\CrudNov\CrudNov\obj\Debug\CrudNov.exe
+C:\Users\paolo\OneDrive\Escritorio\finalNov\CrudNov\CrudNov\obj\Debug\CrudNov.pdb
+C:\Users\paolo\OneDrive\Escritorio\finalNov\CrudNov\CrudNov\obj\Debug\CrudNov.App.resources
